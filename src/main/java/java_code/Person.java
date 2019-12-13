@@ -11,4 +11,7 @@ public class Person {
     public static void  test1(){
         System.out.println("Git practice");
     }
+    puclic static String test2(){
+        return name;
+    }
 }
