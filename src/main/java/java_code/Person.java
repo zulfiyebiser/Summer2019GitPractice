@@ -8,4 +8,7 @@ public class Person {
         this.age= age;
         
     }
+    public static void  test1(){
+        System.out.println("Git practice");
+    }
 }
