@@ -15,4 +15,9 @@ public class Person {
      Person obj = new Person(2);
      return obj.name;
     }
+
+    public static void main(String[] args) {
+        String name = "zulfiye";
+        System.out.println(name);
+    }
 }
