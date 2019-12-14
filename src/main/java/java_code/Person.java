@@ -20,4 +20,7 @@ public class Person {
         String name = "zulfiye";
         System.out.println(name);
     }
+    public static void test3(){
+        int num;
+    }
 }
