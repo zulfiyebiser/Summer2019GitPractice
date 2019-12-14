@@ -22,5 +22,6 @@ public class Person {
     }
     public static void test3(){
         int num;
+        num = 5;
     }
 }
